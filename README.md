@@ -1,7 +1,11 @@
 # Hola, soy Bruno Gómez García 
 ### Hola :dog:
 
+## Lenguajes usados en mi repositorio personal
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bronigege)](https://github.com/anuraghazra/github-readme-stats)
+
+## Lenguajes usados en DumaSoft
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dumasoft)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
