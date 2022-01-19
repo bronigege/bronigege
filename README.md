@@ -1,9 +1,6 @@
 # Bruno Gómez García 
 ### Hola :dog:
 
-<div style="border: 1px solid"><p>hola</p></div>
-
-
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=bronigege)](https://github.com/anuraghazra/github-readme-stats)
 
 
