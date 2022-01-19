@@ -1,4 +1,4 @@
-# Hola, soy Bruno Gómez García 
+# Bruno Gómez García 
 ### Hola :dog:
 
 
