@@ -1,3 +1,5 @@
+<img align='left' src='https://dumasoft.es/dumasoft/logos/logo_rojo.png' width='95"'>
+
 # Bruno Gómez García 
 ### Hola :dog:
 
