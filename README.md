@@ -5,12 +5,13 @@
 
 <img align='right' src='https://dumasoft.es/dumasoft/octocat/octocat_tenis.png' width='250"'>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec fermentum sagittis mauris, sit amet molestie justo dapibus et. Aenean tincidunt faucibus urna et pulvinar. Suspendisse euismod risus elementum massa vestibulum aliquam. Praesent sed molestie mauris, a sollicitudin urna. Integer facilisis arcu a ante sollicitudin, sit amet tincidunt urna interdum. Fusce in arcu bibendum, eleifend odio id, aliquet arcu. Phasellus id vestibulum nulla. Nulla lectus felis, sagittis nec nulla a, molestie posuere erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse congue sollicitudin urna ultrices iaculis. Integer ornare dui vel ipsum lobortis mollis. Etiam maximus finibus sapien. Phasellus iaculis sodales diam. Nam efficitur ex blandit, porta est vitae, rutrum nulla. Mauris vel ex lorem. Fusce at est ut erat iaculis egestas.
+*Acuérdate también de esto siempre; para vivir felizmente basta con muy poco*
 
-Aliquam sollicitudin molestie elit ut sagittis. Proin augue ante, dapibus vel ornare pharetra, congue nec felis. Suspendisse potenti. Nulla vitae blandit odio, quis vehicula magna. Curabitur euismod rhoncus odio, vel facilisis sapien. Proin aliquam lacus euismod tortor sodales luctus. Ut mollis eget elit pharetra aliquam. Donec consequat sem ac ex interdum interdum. Morbi ullamcorper sem quam, eu commodo lacus malesuada id. Vivamus semper vitae augue aliquam maximus. Donec nunc odio, accumsan eu odio in, vehicula lacinia velit. Nulla id gravida mi. Proin leo quam, feugiat non risus sit amet, volutpat laoreet velit. Vivamus semper, turpis a maximus interdum, enim sem ornare massa, a mattis ante tortor sed dui. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse ornare sem et tellus blandit, sit amet rhoncus ipsum maximus.
+Siempre es difícil pensar en uno mismo, en sus virtudes y defectos, a veces por mesura, otras por desconocimiento y otras por exceso de ego. Yo lo voy a intentar en unas pocas líneas.
 
-Vivamus consequat, tortor sed porta dignissim, nulla velit aliquet sapien, id consectetur orci risus non justo. Aenean id nisi nec metus fermentum pharetra ac a velit. Nulla facilisi. Vivamus est massa, venenatis eget vestibulum non, hendrerit et est. Maecenas eget turpis quis mauris sollicitudin gravida. Suspendisse vestibulum finibus lorem quis vehicula. Praesent lorem velit, rutrum quis diam et, lacinia mattis augue.
+Desde que tengo uso de razón me ha entusiasmado la historia, aún recuerdo la primera vez que vi en un libro de EGB a Aníbal Barca cruzando con elefantes los Pirineos. La vida me llevo muchas veces por caminos que me alejaron de aquello que más me gustaba.
 
+Esas vueltas que da la vida me llevaron al mundo de la programación, una profesión que me gusta y trato de combinar con mi gran pasión, la **Historia**.
 # Cursus Honorum
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=bronigege)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,37 +22,32 @@ Vivamus consequat, tortor sed porta dignissim, nulla velit aliquet sapien, id co
 ## **📫 Donde encontrarme**
 
 <div align="center" style="text-align:center">
-    <a href="mailto:bronigege@gmail.com">
+    <a href="mailto:bronigege@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="bronigege's Gmail">
+             alt="bronigege's Gmail">
     </a>
-    <a href="https://es.stackoverflow.com/users/248896/bronigege">
+    <a href="https://es.stackoverflow.com/users/248896/bronigege" target="_blank">
         <img src="https://img.shields.io/badge/-SO-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white"
-            alt="bronigege's StackOverflow">
+             alt="bronigege's StackOverflow">
     </a>
-    <a href="https://profile.codersrank.io/user/bronigege/">
+    <a href="https://profile.codersrank.io/user/bronigege/" target="_blank">
         <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white"
-            alt="bronigege's CodersRank">
+             alt="bronigege's CodersRank">
     </a>
-    <a href="https://www.linkedin.com/in/bruno-gómez-garc%C3%ADa-48a9ba61/">
+    <a href="https://www.linkedin.com/in/bruno-gómez-garc%C3%ADa-48a9ba61/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="bronigege's LinkedIn">
+             alt="bronigege's LinkedIn">
+    </a>
+    <a href="https://medium.com/@bronigege" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" 
+             alt="bronigege's Medium">
     </a>
 </div>
 
+---
 
-
-<!--
-**bronigege/bronigege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.buymeacoffee.com/bronigege" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+         alt="Buy Me A Coffee" 
+         style="height: 60px !important;width: 217px !important;" >
+</a>
