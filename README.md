@@ -5,7 +5,8 @@
 
 <img align='right' src='https://dumasoft.es/dumasoft/octocat/octocat_tenis.png' width='250"'>
 
-*Acuérdate también de esto siempre; para vivir felizmente basta con muy poco*
+> *Acuérdate también de esto siempre; para vivir felizmente basta con muy poco*
+> Marco Aurelio.
 
 Siempre es difícil pensar en uno mismo, en sus virtudes y defectos, a veces por mesura, otras por desconocimiento y otras por exceso de ego. Yo lo voy a intentar en unas pocas líneas.
 
