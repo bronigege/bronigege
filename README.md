@@ -3,6 +3,8 @@
 
 # Saludos, soy Bruno
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritinha86&label=Profile%20views&color=0e75b6&style=flat" alt="ritinha86" /> </p>
+
 <img align='right' src='https://dumasoft.es/dumasoft/octocat/octocat_tenis.png' width='250"'>
 
 > *Acuérdate también de esto siempre; para vivir felizmente basta con muy poco.*
